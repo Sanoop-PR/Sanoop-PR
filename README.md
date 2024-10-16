@@ -1,3 +1,6 @@
+# 👋 Hello! I'm Sanoop PR
+
+I'm a passionate **Full Stack Developer** specializing in the **MERN** stack (MongoDB, Express.js, React, Node.js). I love building dynamic, responsive web applications and exploring new technologies.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanoop287) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanoop-pr) 
