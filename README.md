@@ -52,9 +52,26 @@ Feel free to reach out or leave a comment!
 
 ---
 
+## 📂 Repositories  
+
+### Frontend  
+[**GitHub Repository - Frontend**](https://github.com/Sanoop-PR/do_this_frontend.git)  
+
+### Backend  
+[**GitHub Repository - Backend**](https://github.com/Sanoop-PR/do_this_backend.git)  
+
+---
+
 ## 🛠️ Tech Stack  
+### Frontend  
 - **React Native**  
 - **Expo**  
+
+### Backend  
+- **Node.js**  
+- **Express.js**  
+- **MongoDB**
+- **TypeScript**
 
 ---
 
