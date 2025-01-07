@@ -21,3 +21,42 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN** stack (Mo
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sanoop-PR&icon=4&color=1)](https://visitcount.itsvg.in)
+
+
+
+
+# 📝 To-Do App  
+🌟 **My First React Native Expo Project**  
+
+This is a simple and elegant task management app built with **React Native** and **Expo**. It's designed to help you manage your tasks efficiently and stay organized.  
+
+---
+
+## 🚀 Features  
+- 📌 Create, update, and delete tasks  
+- 🖤 User-friendly interface  
+- ⚡ Lightweight and efficient  
+
+---
+
+## 📥 Download  
+You can download the APK to try it out:  
+[**Download To-Do App APK**](https://expo.dev/artifacts/eas/ckyZdLWU5RnamBpNagr3g7.apk)  
+
+---
+
+## 📢 About  
+This is my very first project in React Native, and I’m excited to share it with the world! I’d love to hear your feedback and thoughts on how I can improve it further.  
+
+Feel free to reach out or leave a comment!  
+
+---
+
+## 🛠️ Tech Stack  
+- **React Native**  
+- **Expo**  
+
+---
+
+### Thank you for checking out my project—this is just the beginning of my coding journey! 🚀
+
